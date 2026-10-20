@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Akhil Etikala",
+        "email": "satish@gmail.com",
+        "password": "1234"
+    },
+    {
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin"
+    },
+    {
+        "name": "ysh",
+        "email": "a@gmail.com",
+        "password": "123"
+    },
+    {
+        "name": "kaashif ",
+        "email": "kaashif18@gmail.com",
+        "password": "12345"
+    },
+    {
+        "name": "idress",
+        "email": "idress123@gmail.com",
+        "password": "12345"
+    },
+    {
+        "name": "akber",
+        "email": "akber1234@gmail.com",
+        "password": "12345"
+    },
+    {
+        "name": "Mohammed Abdul Muzammil",
+        "email": "AbdulMuzammil123@gmail.com",
+        "password": "12345"
+    },
+    {
+        "name": "Mohammed Shuja Uddin",
+        "email": "MohammedShujaUddin123@gmail.com",
+        "password": "12345"
+    }
+]
